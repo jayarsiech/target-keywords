@@ -60,4 +60,4 @@
 
 1. مخزن را دانلود یا کلون کنید:
 ```bash
-git clone https://github.com/YOUR_USERNAME/target-keywords.git
+git clone https://github.com/jayarsiech/target-keywords.git
